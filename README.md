@@ -4,6 +4,9 @@ Persistent Download Directory Swapper
 Tutorial:
 https://www.youtube.com/watch?v=NXF0HKlOW-A
 
+Code Analysis:
+https://youtu.be/BzHfMLdMabk
+
 Prerequisites:
 
 DotNET 5.0 Runtime-
