@@ -2,10 +2,10 @@
 ## Persistent Download Directory Swapper 
 
 Tutorial:
-https://www.youtube.com/watch?v=NXF0HKlOW-A (❌privated❌)
+ (❌privated❌)
 
 Code Analysis:
-https://youtu.be/BzHfMLdMabk (❌privated❌)
+ (❌privated❌)
 
 Prerequisites:
 
