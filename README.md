@@ -2,10 +2,10 @@
 ## Persistent Download Directory Swapper 
 
 Tutorial:
-https://www.youtube.com/watch?v=NXF0HKlOW-A
+https://www.youtube.com/watch?v=NXF0HKlOW-A (❌privated❌)
 
 Code Analysis:
-https://youtu.be/BzHfMLdMabk
+https://youtu.be/BzHfMLdMabk (❌privated❌)
 
 Prerequisites:
 
@@ -17,5 +17,3 @@ https://www.win-rar.com/download.html?&L=0
 
 Fortnite-
 https://www.epicgames.com/fortnite/en-US/download
-
-![Icon](https://github.com/PeenkLion/PDDIR-Swapper/blob/main/icon.png)
