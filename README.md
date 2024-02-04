@@ -1,12 +1,6 @@
 # PDDIR-Swapper
 ## Persistent Download Directory Swapper 
 
-Tutorial:
- (❌privated❌)
-
-Code Analysis:
- (❌privated❌)
-
 Prerequisites:
 
 DotNET 5.0 Runtime-
