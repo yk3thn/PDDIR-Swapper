@@ -6,7 +6,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using AnimateDemo;
 using System.Drawing;
 using System.Threading;
 using System.Timers;
@@ -24,7 +23,7 @@ namespace Custom_PDDIR_Swapper
 
         private void Load_Load(object sender, EventArgs e)
         {
-            WinAPI.AnimateWindow(this.Handle, 750, WinAPI.CENTER);
+            
             timer1.Start();
         }
 
