@@ -1,0 +1,18 @@
+C:\Users\yk3th\source\repos\PDDIR Swapper\PDDIR Swapper\bin\Debug\net8.0-windows\PDDIR Swapper.exe
+C:\Users\yk3th\source\repos\PDDIR Swapper\PDDIR Swapper\bin\Debug\net8.0-windows\PDDIR Swapper.deps.json
+C:\Users\yk3th\source\repos\PDDIR Swapper\PDDIR Swapper\bin\Debug\net8.0-windows\PDDIR Swapper.runtimeconfig.json
+C:\Users\yk3th\source\repos\PDDIR Swapper\PDDIR Swapper\bin\Debug\net8.0-windows\PDDIR Swapper.dll
+C:\Users\yk3th\source\repos\PDDIR Swapper\PDDIR Swapper\bin\Debug\net8.0-windows\PDDIR Swapper.pdb
+C:\Users\yk3th\source\repos\PDDIR Swapper\PDDIR Swapper\obj\Debug\net8.0-windows\PDDIR_Swapper.Main.resources
+C:\Users\yk3th\source\repos\PDDIR Swapper\PDDIR Swapper\obj\Debug\net8.0-windows\PDDIR Swapper.csproj.GenerateResource.cache
+C:\Users\yk3th\source\repos\PDDIR Swapper\PDDIR Swapper\obj\Debug\net8.0-windows\PDDIR Swapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yk3th\source\repos\PDDIR Swapper\PDDIR Swapper\obj\Debug\net8.0-windows\PDDIR Swapper.AssemblyInfoInputs.cache
+C:\Users\yk3th\source\repos\PDDIR Swapper\PDDIR Swapper\obj\Debug\net8.0-windows\PDDIR Swapper.AssemblyInfo.cs
+C:\Users\yk3th\source\repos\PDDIR Swapper\PDDIR Swapper\obj\Debug\net8.0-windows\PDDIR Swapper.csproj.CoreCompileInputs.cache
+C:\Users\yk3th\source\repos\PDDIR Swapper\PDDIR Swapper\obj\Debug\net8.0-windows\PDDIR Swapper.dll
+C:\Users\yk3th\source\repos\PDDIR Swapper\PDDIR Swapper\obj\Debug\net8.0-windows\refint\PDDIR Swapper.dll
+C:\Users\yk3th\source\repos\PDDIR Swapper\PDDIR Swapper\obj\Debug\net8.0-windows\PDDIR Swapper.pdb
+C:\Users\yk3th\source\repos\PDDIR Swapper\PDDIR Swapper\obj\Debug\net8.0-windows\PDDIR Swapper.genruntimeconfig.cache
+C:\Users\yk3th\source\repos\PDDIR Swapper\PDDIR Swapper\obj\Debug\net8.0-windows\ref\PDDIR Swapper.dll
+C:\Users\yk3th\source\repos\PDDIR Swapper\PDDIR Swapper\bin\Debug\net8.0-windows\PDDIR Swapper.dll.config
+C:\Users\yk3th\source\repos\PDDIR Swapper\PDDIR Swapper\obj\Debug\net8.0-windows\PDDIR_Swapper.Properties.Resources.resources
